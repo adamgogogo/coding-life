@@ -31,7 +31,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Blogs
 
-[a test link](another-page.md)
+- [My first 3D Printer Test](3d-printer-test.md)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adamgogogo/coding-life/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 

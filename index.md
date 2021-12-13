@@ -14,7 +14,8 @@ My main job is doing the frontend works, like APP, Wechat Mini APP and Web pages
 ### :bulb: My Interests
 I like 3D, Game, Fiction, hiking and Everything about computer.
 
-- [My First 3D Printer Test](3d-printer-test.md)
+- [My First 3D Printer Test](blogs/3d-printer-test.md)
+- [Upgraded 2012-mid Old MacOS Catalina to MacOS Big Sur without Usb Stick](blogs/how-I-upgrade-12-mid-catalina-to-bigsur-without-usb-stick.md)
 
 ### :bulb:Markdown Help
 
